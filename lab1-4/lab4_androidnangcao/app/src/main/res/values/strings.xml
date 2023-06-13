@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab4_androidnangcao</string>
+    <string name="location">kinh do %1$.4f \nvi do %2$.4f \ngio %3$tr</string>
+</resources>
